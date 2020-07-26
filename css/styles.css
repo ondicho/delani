@@ -21,6 +21,9 @@
   transform: translate(-50%,-50%);
   color: white;
 }
+.card{
+  border: none;
+}
 #icons{
   padding: 40px;
 
@@ -34,7 +37,7 @@
   transform: translate(-50%,-50%);
   color: white;
 }
-.contactUs{
+#contactUs{
   background-image: url("../assets/backgrounds/c_image.jpg");
 }
 .form-group{
