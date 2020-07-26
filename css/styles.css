@@ -21,8 +21,9 @@
   transform: translate(-50%,-50%);
   color: white;
 }
-.icons{
+#icons{
   padding: 40px;
+
 }
 .services{
   width: auto;
