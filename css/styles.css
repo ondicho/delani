@@ -15,5 +15,7 @@
 }
 .contactUs{
   background-image: url("../assets/backgrounds/c_image.jpg");
-
+}
+.form-group{
+  opacity: 0.6;
 }
