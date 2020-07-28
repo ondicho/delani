@@ -32,6 +32,15 @@
   width:  32;
   height: 32;
 }
+#icon1{
+  display: none;
+}
+#icon2{
+  display: none;
+}
+#icon3{
+  display: none;
+}
 .services{
   width: auto;
   text-align: center;
@@ -44,9 +53,7 @@
 #services img{
     object-fit: cover;
 }
-.clickable p{
-  display: none;
-}
+
 #contactUs{
   width: auto;
   text-align: center;

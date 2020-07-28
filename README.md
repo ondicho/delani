@@ -32,7 +32,7 @@ This command clones the project to your local machine and the project can now be
   <li>Bootstrap</li>
   <li>JQuery</li>
 </ul>
-<h2>Contact information</h2<
+<h2>Contact information</h2>
 <p>For any questions in regards to the above project you can reach me via my email: ondicho53@gmail.com</p>
 <h2>License</h2>
 <p>The project has a MIT license and any user is free to change,edit and publish this code.</p>
