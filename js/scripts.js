@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  //toggle functions
   $('#design').click(function() {
     $('#icon1').toggle();
     $('#design').toggle();
@@ -23,4 +24,8 @@ $(document).ready(function() {
     $('#icon3').toggle();
     $('#product').toggle();
   });
+  //hover functions
+  $('#portfolio').hover(function (){
+    $('#image1').css({"opacity":"70%","transition":"2s"}).css;
+  })
 });
