@@ -25,7 +25,6 @@ $(document).ready(function() {
     $('#product').toggle();
   });
   //hover functions
-  $('#portfolio').hover(function (){
-    $('#image1').css({"opacity":"70%","transition":"2s"}).css;
+
   })
 });
