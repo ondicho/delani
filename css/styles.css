@@ -42,7 +42,7 @@
   display: none;
 }
 .services{
-  width: auto;
+  width: inherit;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -55,7 +55,7 @@
 }
 
 #contactUs{
-  width: auto;
+  width: inherit;
   text-align: center;
   position: absolute;
   top: 50%;
